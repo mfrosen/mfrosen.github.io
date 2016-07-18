@@ -1,5 +1,6 @@
 ---
 title: Ready Check
+layout: default
 ---
 
 ### Ready Check
